@@ -1,3 +1,15 @@
+populate_users
+==============
+
+## Description
+
+Populate accounts and users
+
+## Procedure
+
+1. Add 4 accounts with 4 users each
+
+
 # Eucalyptus Testunit Framework
 
 Eucalyptus Testunit Framework is designed to run a list of test scripts written by Eucalyptus developers.
